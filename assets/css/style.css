@@ -17,9 +17,12 @@ body, html {
 }  
 
 p {
-    background: rgb(233, 223, 189);
+    background: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
 
 #pic {
-   margin-left: 350px;
+    margin-left: 350px;
 }
