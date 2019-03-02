@@ -1,0 +1,25 @@
+body, html {
+    height:100%;
+}
+
+.container {
+   
+    background-image: url("hollywood.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top {
+    text-align: center;
+    background:rgb(233, 223, 189);
+}  
+
+p {
+    background: rgb(233, 223, 189);
+}
+
+#pic {
+   margin-left: 350px;
+}
